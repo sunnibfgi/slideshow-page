@@ -145,7 +145,8 @@
 	}()
 
 	initPage()
-	rules.showDialog().hideDialog()
+	rules.
+  showDialog().hideDialog()
 
 	window.addEventListener('resize', initPage, false)
 	document.addEventListener('touchstart', touchStart, false)
